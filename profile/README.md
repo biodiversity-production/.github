@@ -6,11 +6,14 @@
 
 Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
+biopro-authentication-service  | `authentication` | v0 | FastAPI + Redis | 
+biopro-user-service  | `user` | v0 | FastAPI + PostgreSQL | 
 biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + PostgreSQL | 
-biopro-homepage-service | `homepage` | v0 | Laravel + VueJS + PostgreSQL | 
-biopro-map-service | `map` | v0 | Laravel + VueJS + PostgreSQL | 
-biopro-species-service | `species` | v0 | Laravel + VueJS + PostgreSQL | 
-biopro-api-gateway  | `api-gateway` | v0 | Laravel + VueJS + PostgreSQL | 
+biopro-species-service | `species` | v0 | Laravel + VueJS | 
+biopro-map-service | `map` | v0 | Laravel + VueJS | 
+biopro-homepage-service | `homepage` | v0 | Laravel + VueJS | 
+biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | 
+biopro-api-gateway | `api-gateway` | v0 | Kong | 
 
 + Related
 
@@ -19,9 +22,15 @@ Repos | Name | Version | Technique Stack | README
 biopro-chart | `chart` | v0 | diagrams.net |
 biopro-pgsql | `pgsql` | v0 | PostgreSQL |
 
-+ Documentation and more ...
++ Documentation
 
 Repos | Name | Version | README
 -----|-----|-----|-----
 .github | `profile` | v0 | 
 .docs | `docs` | v0 |  
+
+## :bookmark_tabs: References
+
+
+## :memo:Notes
+
