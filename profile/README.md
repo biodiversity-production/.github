@@ -6,6 +6,7 @@
 
 Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
+biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + PostgreSQL | 
 biopro-homepage-service | `homepage` | v0 | Laravel + VueJS + PostgreSQL | 
 biopro-map-service | `map` | v0 | Laravel + VueJS + PostgreSQL | 
 biopro-species-service | `species` | v0 | Laravel + VueJS + PostgreSQL | 
