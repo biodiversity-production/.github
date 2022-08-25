@@ -13,7 +13,7 @@ biopro-species-service | `species` | v0 | Laravel + VueJS |
 biopro-map-service | `map` | v0 | Laravel + VueJS | 
 biopro-homepage-service | `homepage` | v0 | Laravel + VueJS | 
 biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | 
-biopro-api-gateway | `api-gateway` | v0 | Kong | 
+biopro-api-gateway | `api-gateway` | v0 | Kong + PostgreSQL | 
 
 + Related
 
