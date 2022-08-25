@@ -6,7 +6,6 @@
 
 Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
-biopro-authentication-service  | `authentication` | v0 | FastAPI + Redis | 
 biopro-user-service  | `user` | v0 | FastAPI + PostgreSQL | 
 biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + PostgreSQL | 
 biopro-species-service | `species` | v0 | Laravel + VueJS | 
