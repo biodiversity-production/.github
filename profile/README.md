@@ -4,15 +4,16 @@
 
 + Microservices
 
-Repos | Name Service | Version | Technique Stack | README
------|-----|-----|-----|-----
-biopro-user-service  | `user` | v0 | FastAPI + PostgreSQL | 
-biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + PostgreSQL | 
-biopro-species-service | `species` | v0 | Laravel + VueJS | 
-biopro-map-service | `map` | v0 | Laravel + VueJS | 
-biopro-homepage-service | `homepage` | v0 | Laravel + VueJS | 
-biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | 
-biopro-api-gateway | `api-gateway` | v0 | Kong + PostgreSQL | 
+Repos | Name Service | Version | Technique Stack | README | Notes
+-----|-----|-----|-----|-----|----- 
+biopro-user-service | `user` | v0 | FastAPI + PostgreSQL | | 
+biopro-ui | `UI` | v0 | **_UI_** | | Choose Frontend Framework
+biopro-administrator-service | `administrator` | v0 | Laravel + **_UI_** + PostgreSQL | | Using `biopro-ui`
+biopro-species-service | `species` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
+biopro-map-service | `map` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
+biopro-homepage-service | `homepage` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
+biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | | 
+biopro-api-gateway | `api-gateway` | v0 | Kong + PostgreSQL | | 
 
 + Related
 
@@ -31,5 +32,5 @@ Repos | Name | Version | README
 ## :bookmark_tabs: References
 
 
-## :memo:Notes
+## :memo: Notes
 
