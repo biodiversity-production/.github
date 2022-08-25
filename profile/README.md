@@ -18,7 +18,6 @@ Repos | Name | Version | Technique Stack | README
 -----|-----|-----|-----|-----
 biopro-chart | `chart` | v0 | diagrams.net |
 biopro-pgsql | `pgsql` | v0 | PostgreSQL |
-... | | | | 
 
 + Documentation and more ...
 
@@ -26,4 +25,3 @@ Repos | Name | Version | README
 -----|-----|-----|-----
 .github | `profile` | v0 | 
 .docs | `docs` | v0 |  
-... | | | | 
