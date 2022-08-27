@@ -13,6 +13,7 @@ biopro-species-service | `species` | v0 | Laravel + **_UI_** | | Using `biopro-u
 biopro-map-service | `map` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
 biopro-homepage-service | `homepage` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
 biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | | 
+biopro-data-entry-service | `data-entry` | v0 | Python | | Choose Framework
 biopro-api-gateway | `api-gateway` | v0 | Kong + PostgreSQL | | 
 
 + Related
