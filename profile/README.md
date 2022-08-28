@@ -4,17 +4,17 @@
 
 + Microservices
 
-Repos | Name Service | Version | Technique Stack | README | Notes
+Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
-biopro-user-service | `user` | v0 | FastAPI + PostgreSQL | | 
-biopro-ui | `UI` | v0 | **_UI_** | | Choose Frontend Framework
-biopro-administrator-service | `administrator` | v0 | Laravel + **_UI_** + PostgreSQL | | Using `biopro-ui`
-biopro-species-service | `species` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
-biopro-map-service | `map` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
-biopro-homepage-service | `homepage` | v0 | Laravel + **_UI_** | | Using `biopro-ui`
-biopro-file-manager-service  | `file-manager` | v0 | MinIO + PostgreSQL | | 
-biopro-data-entry-service | `data-entry` | v0 | Python | | Choose Framework
-biopro-api-gateway | `api-gateway` | v0 | Kong + PostgreSQL | | 
+biopro-user-service | `user` | v0 | FastAPI | PostgreSQL | 
+biopro-ui | `ui` | v0 | VueJS + Taiwind CSS | | 
+biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + Taiwind CSS | PostgreSQL | 
+biopro-species-service | `species` | v0 | Laravel + VueJS + Taiwind CSS | | 
+biopro-map-service | `map` | v0 | Laravel + VueJS + Taiwind CSS | | 
+biopro-homepage-service | `homepage` | v0 | Laravel + VueJS + Taiwind CSS | | 
+biopro-file-manager-service  | `file-manager` | v0 | MinIO | PostgreSQL | 
+biopro-data-entry-service | `data-entry` | v0 | FastAPI | PostgreSQL | 
+biopro-api-gateway | `api-gateway` | v0 | Kong | PostgreSQL | 
 
 + Related
 
@@ -30,8 +30,15 @@ Repos | Name | Version | README
 .github | `profile` | v0 | 
 .docs | `docs` | v0 |  
 
-## :bookmark_tabs: References
-- India Biodiversity Portal: https://indiabiodiversity.org/
+## :bookmark_tabs: References Softs
++ India Biodiversity Portal: https://indiabiodiversity.org/
++ Global Biodiversity Information Facility: https://www.gbif.org/
++ National Biodiversity Database System: https://nbds.ceid.gov.vn/
+
+## :bookmark_tabs: References Technical Stack
++ `Laravel + VueJS + Taiwind CSS`
+  + https://dev.to/rjzauner/getting-started-with-laravel-8-vue-3-and-tailwind-5gm9
+  + https://laravel.io/articles/setting-up-laravel-with-inertiajs-vuejs-tailwind-css
 
 ## :memo: Notes
 
