@@ -10,6 +10,7 @@ biopro-user-service | `user` | v0 | FastAPI | PostgreSQL |
 biopro-ui | `ui` | v0 | VueJS + Taiwind CSS | | 
 biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + Taiwind CSS | PostgreSQL | 
 biopro-species-service | `species` | v0 | Laravel + VueJS + Taiwind CSS | | 
+biopro-documents-service | `documents` | v0 | Laravel + VueJS + Taiwind CSS | | 
 biopro-map-service | `map` | v0 | Laravel + VueJS + Taiwind CSS | | 
 biopro-homepage-service | `homepage` | v0 | Laravel + VueJS + Taiwind CSS | | 
 biopro-file-manager-service  | `file-manager` | v0 | MinIO | PostgreSQL | 
@@ -41,4 +42,5 @@ Repos | Name | Version | README
   + https://laravel.io/articles/setting-up-laravel-with-inertiajs-vuejs-tailwind-css
 
 ## :memo: Notes
-
++ Initial Gmail account: biodiversity.production@gmail.com
++ *Optional*: Setup general `Postman`
