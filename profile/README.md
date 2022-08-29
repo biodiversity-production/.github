@@ -29,7 +29,7 @@ biopro-pgsql | `pgsql` | v0 | PostgreSQL |
 Repos | Name | Version | README
 -----|-----|-----|-----
 .github | `profile` | v0 | 
-.docs | `docs` | v0 |  
+.docs | `docs` | v0 |  [here](https://github.com/biodiversity-production/.docs/blob/main/README.md) 
 
 ## :bookmark_tabs: References Softs
 + India Biodiversity Portal: https://indiabiodiversity.org/
