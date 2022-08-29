@@ -15,7 +15,7 @@ biopro-map-service | `map` | v0 | Laravel + VueJS + Taiwind CSS | |
 biopro-homepage-service | `homepage` | v0 | Laravel + VueJS + Taiwind CSS | | 
 biopro-file-manager-service  | `file-manager` | v0 | MinIO | PostgreSQL | 
 biopro-data-entry-service | `data-entry` | v0 | FastAPI | PostgreSQL | 
-biopro-api-gateway | `api-gateway` | v0 | Kong | PostgreSQL | 
+biopro-api-gateway | `api-gateway` | v0 | Kong | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
 
 + Related
 
