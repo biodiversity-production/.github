@@ -28,7 +28,7 @@ biopro-pgsql | `pgsql` | v0 | PostgreSQL |
 
 Repos | Name | Version | README
 -----|-----|-----|-----
-.github | `profile` | v0 | 
+.github | `profile` | v0 | [here](https://github.com/biodiversity-production/.github/blob/main/profile/README.md)
 .docs | `docs` | v0 |  [here](https://github.com/biodiversity-production/.docs/blob/main/README.md) 
 
 ## :bookmark_tabs: References Softs
