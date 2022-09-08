@@ -8,7 +8,7 @@ Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
 biopro-user-service | `user` | v0 | FastAPI | PostgreSQL | 
 biopro-ui | `ui` | v0 | VueJS + Taiwind CSS | | 
-biopro-administrator-service | `administrator` | v0 | Laravel + VueJS + Taiwind CSS | PostgreSQL | 
+biopro-administrator-service | `administrator` | v0 | NestJS | PostgreSQL | 
 biopro-species-service | `species` | v0 | Laravel + VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-species-service/blob/main/README.md)
 biopro-documents-service | `documents` | v0 | Laravel + VueJS + Taiwind CSS | | 
 biopro-map-service | `map` | v0 | Laravel + VueJS + Taiwind CSS | | 
