@@ -43,4 +43,4 @@ Repos | Name | Version | README
 
 ## :memo: Notes
 + Initial Gmail account: biodiversity.production@gmail.com
-+ *Optional*: Setup general `Postman`
++ ✅ Setup general `Postman`
