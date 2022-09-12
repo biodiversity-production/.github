@@ -7,7 +7,6 @@
 Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
 biopro-user-service | `user` | v0 | FastAPI | PostgreSQL | 
-biopro-ui | `ui` | v0 | VueJS + Taiwind CSS | | 
 biopro-administrator-service | `administrator` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-administrator-service/blob/main/README.md)
 biopro-species-service | `species` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-species-service/blob/main/README.md)
 biopro-documents-service | `documents` | v0 | VueJS + Taiwind CSS | | 
@@ -22,7 +21,6 @@ biopro-api-gateway | `api-gateway` | v0 | Kong | PostgreSQL | [here](https://git
 Repos | Name | Version | Technique Stack | README
 -----|-----|-----|-----|-----
 biopro-chart | `chart` | v0 | diagrams.net | [here](https://github.com/biodiversity-production/biopro-chart/blob/main/README.md)
-biopro-pgsql | `pgsql` | v0 | PostgreSQL |
 
 + Documentation
 
