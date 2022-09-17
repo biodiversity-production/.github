@@ -30,15 +30,23 @@ Repos | Name | Version | README
 [.docs](https://github.com/biodiversity-production/.docs) | `docs` | v0 |  [here](https://github.com/biodiversity-production/.docs/blob/main/README.md) 
 
 ## :bookmark_tabs: References Softs
+
 + India Biodiversity Portal: https://indiabiodiversity.org/
 + Global Biodiversity Information Facility: https://www.gbif.org/
 + National Biodiversity Database System: https://nbds.ceid.gov.vn/
 
 ## :bookmark_tabs: References Technical Stack
+
 + Frontend: `VueJS + Taiwind CSS`
 + Backend: `NestJS`
 + Devops: `KONG + MinIO + Docker`
 
 ## :memo: Notes
+
 + Initial Gmail account: biodiversity.production@gmail.com
 + ✅ Setup general `Postman`
+
+## :rocket: Done
++ ✅ `.docs`
++ ✅ `biopro-chart`
++ ✅ `biopro-api-gateway`
