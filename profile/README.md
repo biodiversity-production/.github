@@ -50,3 +50,4 @@ Repos | Name | Version | README
 + ✅ `.docs`
 + ✅ `biopro-chart`
 + ✅ `biopro-api-gateway`
++ ✅ `biopro-file-manager-service`
