@@ -8,10 +8,7 @@ Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
 [biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v0 | FastAPI | PostgreSQL | 
 [biopro-administrator-service](https://github.com/biodiversity-production/biopro-administrator-service) | `administrator` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-administrator-service/blob/main/README.md)
-[biopro-species-service](https://github.com/biodiversity-production/biopro-species-service) | `species` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-species-service/blob/main/README.md)
-[biopro-documents-service](https://github.com/biodiversity-production/biopro-documents-service) | `documents` | v0 | VueJS + Taiwind CSS | | 
-[biopro-map-service](https://github.com/biodiversity-production/biopro-map-service) | `map` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-map-service/blob/main/README.md)
-[biopro-homepage-service](https://github.com/biodiversity-production/biopro-homepage-service) | `homepage` | v0 | VueJS + Taiwind CSS | | 
+[biopro-app](https://github.com/biodiversity-production/biopro-app) | `species` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
 [biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v0 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
 [biopro-data-entry-service](https://github.com/biodiversity-production/biopro-data-entry-service) | `data-entry` | v0 | FastAPI | PostgreSQL | 
 [biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
