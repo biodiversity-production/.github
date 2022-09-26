@@ -6,7 +6,7 @@
 
 Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
-[biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v0 | FastAPI | PostgreSQL | 
+[biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v0 | Logto | | 
 [biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md)
 [biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
 [biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v0 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
@@ -36,7 +36,7 @@ Repos | Name | Version | README
 
 + Frontend: `VueJS + Taiwind CSS`
 + Backend: `NestJS` + PostgreSQL`
-+ Devops: `KONG + MinIO + Docker`
++ Devops: `KONG + MinIO + Logto + Docker`
 
 ## :memo: Notes
 
