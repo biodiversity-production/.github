@@ -10,8 +10,9 @@ Repos | Name Service | Version | Technical Stack | Database | README
 [biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md)
 [biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
 [biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v0 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
-[biopro-data-entry-service](https://github.com/biodiversity-production/biopro-data-entry-service) | `data-entry` | v0 | FastAPI | | 
 [biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
+[biopro-app-mobile]() | `app-mobile` | v0 | | | Comming Soon ...
+[biopro-tracking]() | `tracking` | v0 | | | Comming Soon ...
 
 + Related
 
@@ -43,9 +44,9 @@ Repos | Name | Version | README
 + Initial Gmail account: biodiversity.production@gmail.com
 + ✅ Setup general `Postman`
 + ✅ Setup Pre-request Script `Postman`: [Dynamic Variables](https://learning.postman.com/docs/writing-scripts/script-references/variables-list/)
++ ✅ Setup Runer `Postman`: [Collection Runer](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
 
 ## :rocket: Done
 + ✅ `.docs`
 + ✅ `biopro-chart`
 + ✅ `biopro-api-gateway`
-+ ✅ `biopro-file-manager-service`
