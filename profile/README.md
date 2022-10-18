@@ -12,10 +12,15 @@ Repos | Name Service | Version | Technical Stack | Database | README
 [biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
 [biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
 [biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
-[biopro-app-mobile]() | `app-mobile` | v0 | | | Comming Soon ...
-[biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | v0 | | | Comming Soon ...
-[biopro-tracking]() | `tracking` | v0 | | | Comming Soon ...
-[biopro-dashboard-tracking]() | `dashboard-tracking` | v0 | | | Comming Soon ...
+
++ *Comming Soon ...*
+
+Repos | Name Service | Version | Technical Stack | Database | README
+-----|-----|-----|-----|-----|-----
+[biopro-app-mobile]() | `app-mobile` | v0 | | |
+[biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | v0 | | |
+[biopro-tracking]() | `tracking` | v0 | | |
+[biopro-dashboard-tracking]() | `dashboard-tracking` | v0 | | |
 
 + Related
 
@@ -53,3 +58,4 @@ Repos | Name | Version | README
 + ✅ `.docs`
 + ✅ `biopro-chart`
 + ✅ `biopro-api-gateway`
++ ✅ `biopro-file-manager-service`
