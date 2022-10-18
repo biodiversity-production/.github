@@ -6,27 +6,29 @@
 
 Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|----- 
-[biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-user-service/blob/main/README.md)
-[biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v0 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md)
-[biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
-[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v0 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
-[biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v0 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
+[biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-user-service/blob/main/README.md)
+[biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md)
+[biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
+[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
+[biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
 [biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
 [biopro-app-mobile]() | `app-mobile` | v0 | | | Comming Soon ...
+[biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | v0 | | | Comming Soon ...
 [biopro-tracking]() | `tracking` | v0 | | | Comming Soon ...
+[biopro-dashboard-tracking]() | `dashboard-tracking` | v0 | | | Comming Soon ...
 
 + Related
 
 Repos | Name | Version | Technique Stack | README
 -----|-----|-----|-----|-----
-[biopro-chart](https://github.com/biodiversity-production/biopro-chart) | `chart` | v0 | diagrams.net | [here](https://github.com/biodiversity-production/biopro-chart/blob/main/README.md)
+[biopro-chart](https://github.com/biodiversity-production/biopro-chart) | `chart` | v1 | diagrams.net | [here](https://github.com/biodiversity-production/biopro-chart/blob/main/README.md)
 
 + Documentation
 
 Repos | Name | Version | README
 -----|-----|-----|-----
-[.github](https://github.com/biodiversity-production/.github) | `profile` | v0 | [here](https://github.com/biodiversity-production/.github/blob/main/profile/README.md)
-[.docs](https://github.com/biodiversity-production/.docs) | `docs` | v0 |  [here](https://github.com/biodiversity-production/.docs/blob/main/README.md) 
+[.github](https://github.com/biodiversity-production/.github) | `profile` | v1 | [here](https://github.com/biodiversity-production/.github/blob/main/profile/README.md)
+[.docs](https://github.com/biodiversity-production/.docs) | `docs` | v1 |  [here](https://github.com/biodiversity-production/.docs/blob/main/README.md) 
 
 ## :bookmark_tabs: References Softs
 
