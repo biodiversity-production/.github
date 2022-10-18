@@ -44,7 +44,7 @@ Repos | Name | Version | README
 ## :bookmark_tabs: References Technical Stack
 
 + Frontend: `VueJS + Taiwind CSS`
-+ Backend: `NestJS` + PostgreSQL`
++ Backend: `NestJS + PostgreSQL`
 + Devops: `KONG + MinIO + Logto + Docker`
 
 ## :memo: Notes
