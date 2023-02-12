@@ -9,6 +9,7 @@ Repos | Name Service | Version | Technical Stack | Database | README
 [biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-user-service/blob/main/README.md)
 [biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md)
 [biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md)
+[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
 [biopro-map-service](https://github.com/biodiversity-production/biopro-map-service) | `map` | v1 | Pure JS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-map-service/blob/main/README.md)
 [biopro-image-library-service](https://github.com/biodiversity-production/biopro-image-library-service) | `image-library` | v1 | | | [here](https://github.com/biodiversity-production/biopro-image-library-service/blob/main/README.md)
 [biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
@@ -18,7 +19,6 @@ Repos | Name Service | Version | Technical Stack | Database | README
 
 Repos | Name Service | Version | Technical Stack | Database | README
 -----|-----|-----|-----|-----|-----
-[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
 [biopro-app-mobile]() | `app-mobile` | v0 | | |
 [biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | v0 | | |
 [biopro-tracking]() | `tracking` | v0 | | |
