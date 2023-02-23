@@ -58,5 +58,15 @@ Repos | Name | Version | README
 ## :rocket: Done
 + ✅ `.docs`
 + ✅ `biopro-chart`
-+ ✅ `biopro-api-gateway`
++ ✅ `biopro-api-gateway`, `biopro-core-gateway`, `biopro-map`, `biopro-user-service`
+    + [pgAdmin](http://codesrv.girs.vn:5050)
+    + [core](https://kong2_sinhthainambo.girs.vn/core)
+    + [map](https://kong2_sinhthainambo.girs.vn/map)
+    + [users](https://kong2_sinhthainambo.girs.vn/users)
 + ✅ `biopro-file-manager-service`
+    + [minio GUI](https://minio80_sinhthainambo.girs.vn)
+    + [minio API](https://minio81_sinhthainambo.girs.vn)
++ ✅ `biopro-app`
+    + [app](https://sinhthainambo.girs.vn)
++ ✅ `biopro-app-dashboard`
+    + [dashboard](https://dash-sinhthainambo.girs.vn)
