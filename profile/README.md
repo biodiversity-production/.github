@@ -64,8 +64,8 @@ Repos | Name | Version | README
     + [map](https://kong2_sinhthainambo.girs.vn/map)
     + [users](https://kong2_sinhthainambo.girs.vn/users)
 + ✅ `biopro-file-manager-service`
-    + [minio GUI](https://minio80_sinhthainambo.girs.vn)
-    + [minio API](https://minio81_sinhthainambo.girs.vn)
+    + [minio GUI](https://minio81_sinhthainambo.girs.vn)
+    + [minio API](https://minio80_sinhthainambo.girs.vn)
 + ✅ `biopro-app`
     + [app](https://sinhthainambo.girs.vn)
 + ✅ `biopro-app-dashboard`
