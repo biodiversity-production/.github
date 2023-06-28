@@ -16,12 +16,12 @@ Repos | Name Service | Version | Technical Stack | Database | README | Notes
 
 + *Comming Soon ...*
 
-Repos | Name Service | Version | Technical Stack | Database | README
------|-----|-----|-----|-----|-----
-[biopro-app-mobile]() | `app-mobile` | v0 | | |
-[biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | v0 | | |
-[biopro-tracking]() | `tracking` | v0 | | |
-[biopro-dashboard-tracking]() | `dashboard-tracking` | v0 | | |
+Repos | Name Service | Version | Technical Stack | Database | README | Notes
+-----|-----|-----|-----|-----|-----|-----
+[biopro-app-mobile]() | `app-mobile` | | | | |
+[biopro-app-dashboard-mobile]() | `app-dashboard-mobile` | | | | |
+[biopro-tracking]() | `tracking` | | | | |
+[biopro-dashboard-tracking]() | `dashboard-tracking` | | | | |
 
 + Related
 
