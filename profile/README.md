@@ -59,7 +59,7 @@ Repos | Name | Version | README
 + ✅ `.docs`
 + ✅ `biopro-chart`
 + ✅ `biopro-api-gateway`, `biopro-core-gateway`, `biopro-map`, `biopro-user-service`
-    + [pgAdmin](http://kong2_sinhthainambo.girs.vn)
+    + [adminer](http://kong2_sinhthainambo.girs.vn)
     + [core](http://sinhthainambo.girs.vn:3011/)
     + [map](http://sinhthainambo.girs.vn:3015/)
     + [users](https://sinhthainambo.girs.vn:3012/)
