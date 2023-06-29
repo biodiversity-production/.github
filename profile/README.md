@@ -15,11 +15,11 @@ Repos | Name Service | Version | Technical Stack | Database | README | Notes
 
 + Repositories Archived
 
-Repos | Name Service | Version | Technical Stack | Database | README
------|-----|-----|-----|-----|-----
-[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md)
-[biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md)
-[biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md)
+Repos | Name Service | Version | Technical Stack | Database | README | Notes
+-----|-----|-----|-----|-----|-----|-----
+[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md) |
+[biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md) |
+[biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md) |
 
 + *Comming Soon ...*
 
@@ -53,7 +53,7 @@ Repos | Name | Version | README
 
 + Frontend: `VueJS + Taiwind CSS`
 + Backend: `NestJS + PostgreSQL`
-+ Devops: `KONG + MinIO + Logto + Docker`
++ Devops: `OwnCloud + Docker`
 
 ## :memo: Notes
 
@@ -61,19 +61,3 @@ Repos | Name | Version | README
 + ✅ Setup general `Postman`
 + ✅ Setup Pre-request Script `Postman`: [Dynamic Variables](https://learning.postman.com/docs/writing-scripts/script-references/variables-list/)
 + ✅ Setup Runer `Postman`: [Collection Runer](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
-
-## :rocket: Done
-+ ✅ `.docs`
-+ ✅ `biopro-chart`
-+ ✅ `biopro-api-gateway`, `biopro-core-gateway`, `biopro-map`, `biopro-user-service`
-    + [adminer](http://kong2_sinhthainambo.girs.vn)
-    + [core](http://sinhthainambo.girs.vn:3011/)
-    + [map](http://sinhthainambo.girs.vn:3015/)
-    + [users](http://sinhthainambo.girs.vn:3012/)
-+ ✅ `biopro-file-manager-service`
-    + [minio GUI](https://minio81_sinhthainambo.girs.vn)
-    + [minio API](https://minio80_sinhthainambo.girs.vn)
-+ ✅ `biopro-app`
-    + [app](http://muicamau.girs.vn)
-+ ✅ `biopro-app-dashboard`
-    + [dashboard](http://dash-muicamau.girs.vn)
