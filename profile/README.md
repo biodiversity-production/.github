@@ -2,8 +2,6 @@
 
 ## :newspaper: Table of Things
 
-+ Microservices
-
 + Mũi Cà Mau
 
 Repos | Name Service | Version | Technical Stack | Database | README | Notes
@@ -22,14 +20,6 @@ Repos | Name Service | Version | README
 [langsen-biopro-map-service](https://github.com/biodiversity-production/langsen-biopro-map-service) | `map` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-map-service/blob/main/README.md)
 [langsen-biopro-app](https://github.com/biodiversity-production/langsen-biopro-app) | `app` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-app/blob/main/README.md)
 [langsen-biopro-app-dashboard-2](https://github.com/biodiversity-production/langsen-biopro-app-dashboard-2) | `app-dashboard-2` | v2 | [here](https://github.com/biodiversity-production/langsen-biopro-app-dashboard-2/blob/main/README.md)
-
-+ Repositories Archived
-
-Repos | Name Service | Version | Technical Stack | Database | README | Notes
------|-----|-----|-----|-----|-----|-----
-[biopro-app-dashboard](https://github.com/biodiversity-production/biopro-app-dashboard) | `app-dashboard` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard/blob/main/README.md) |
-[biopro-file-manager-service](https://github.com/biodiversity-production/biopro-file-manager-service)  | `file-manager` | v1 | MinIO | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-file-manager-service/blob/main/README.md) |
-[biopro-api-gateway](https://github.com/biodiversity-production/biopro-api-gateway) | `api-gateway` | v1 | KONG | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-api-gateway/blob/main/README.md) |
 
 + Related
 
