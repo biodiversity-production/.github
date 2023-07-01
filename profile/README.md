@@ -4,6 +4,8 @@
 
 + Microservices
 
++ Mũi Cà Mau
+
 Repos | Name Service | Version | Technical Stack | Database | README | Notes
 -----|-----|-----|-----|-----|-----|-----
 [biopro-core-service](https://github.com/biodiversity-production/biopro-core-service) | `core` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-core-service/blob/main/README.md) |
@@ -11,6 +13,15 @@ Repos | Name Service | Version | Technical Stack | Database | README | Notes
 [biopro-app](https://github.com/biodiversity-production/biopro-app) | `app` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app/blob/main/README.md) | 
 [biopro-user-service](https://github.com/biodiversity-production/biopro-user-service) | `user` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/biopro-user-service/blob/main/README.md) |
 [biopro-app-dashboard-2](https://github.com/biodiversity-production/biopro-app-dashboard-2) | `app-dashboard-2` | v2 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/biopro-app-dashboard-2/blob/main/README.md) |
+
++ Láng Sen
+
+Repos | Name Service | Version | Technical Stack | Database | README | Notes
+-----|-----|-----|-----|-----|-----|-----
+[langsen-biopro-core-service](https://github.com/biodiversity-production/langsen-biopro-core-service) | `core` | v1 | NestJS | PostgreSQL | [here](https://github.com/biodiversity-production/langsen-biopro-core-service/blob/main/README.md) |
+[langsen-biopro-map-service](https://github.com/biodiversity-production/langsen-biopro-map-service) | `map` | v1 | Pure JS + Taiwind CSS | | [here](https://github.com/biodiversity-production/langsen-biopro-map-service/blob/main/README.md) |
+[langsen-biopro-app](https://github.com/biodiversity-production/langsen-biopro-app) | `app` | v1 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/langsen-biopro-app/blob/main/README.md) | 
+[langsen-biopro-app-dashboard-2](https://github.com/biodiversity-production/langsen-biopro-app-dashboard-2) | `app-dashboard-2` | v2 | VueJS + Taiwind CSS | | [here](https://github.com/biodiversity-production/langsen-biopro-app-dashboard-2/blob/main/README.md) |
 
 + Repositories Archived
 
