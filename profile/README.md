@@ -19,7 +19,7 @@ Repos | Name Service | Version | README
 [langsen-biopro-core-service](https://github.com/biodiversity-production/langsen-biopro-core-service) | `core` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-core-service/blob/main/README.md)
 [langsen-biopro-map-service](https://github.com/biodiversity-production/langsen-biopro-map-service) | `map` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-map-service/blob/main/README.md)
 [langsen-biopro-app](https://github.com/biodiversity-production/langsen-biopro-app) | `app` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-app/blob/main/README.md)
-[langsen-biopro-app-dashboard-2](https://github.com/biodiversity-production/langsen-biopro-app-dashboard) | `app-dashboard` | v1 update | [here](https://github.com/biodiversity-production/langsen-biopro-app-dashboard/blob/main/README.md)
+[langsen-biopro-app-dashboard](https://github.com/biodiversity-production/langsen-biopro-app-dashboard) | `app-dashboard` | v1 update | [here](https://github.com/biodiversity-production/langsen-biopro-app-dashboard/blob/main/README.md)
 
 + Related
 
