@@ -21,6 +21,15 @@ Repos | Name Service | Version | README
 [langsen-biopro-app](https://github.com/biodiversity-production/langsen-biopro-app) | `app` | v1 | [here](https://github.com/biodiversity-production/langsen-biopro-app/blob/main/README.md)
 [langsen-biopro-app-dashboard](https://github.com/biodiversity-production/langsen-biopro-app-dashboard) | `app-dashboard` | v1 update | [here](https://github.com/biodiversity-production/langsen-biopro-app-dashboard/blob/main/README.md)
 
++ U Minh Thượng
+
+Repos | Name Service | Version | README
+-----|-----|-----|-----
+[uminhthuong-biopro-core-service](https://github.com/biodiversity-production/uminhthuong-biopro-core-service) | `core` | v1 | [here](https://github.com/biodiversity-production/uminhthuong-biopro-core-service/blob/main/README.md)
+[uminhthuong-biopro-map-service](https://github.com/biodiversity-production/uminhthuong-biopro-map-service) | `map` | v1 | [here](https://github.com/biodiversity-production/uminhthuong-biopro-map-service/blob/main/README.md)
+[uminhthuong-biopro-app](https://github.com/biodiversity-production/uminhthuong-biopro-app) | `app` | v1 | [here](https://github.com/biodiversity-production/uminhthuong-biopro-app/blob/main/README.md)
+[uminhthuong-biopro-app-dashboard](https://github.com/biodiversity-production/uminhthuong-biopro-app-dashboard) | `app-dashboard` | v1 update | [here](https://github.com/biodiversity-production/uminhthuong-biopro-app-dashboard/blob/main/README.md)
+
 + Related
 
 Repos | Name | Version | Technique Stack | README
